@@ -1,4 +1,4 @@
-package com.riskguard.riskguard.api;
+package com.riskguard.riskguard.controller;
 
 import com.riskguard.riskguard.api.dto.TradeRequest;
 import com.riskguard.riskguard.domain.Trade;
